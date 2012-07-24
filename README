@@ -1,0 +1,5 @@
+This project was built using the Play Framework version 2.0.2 and using JDK 1.7.
+It is a work in progress and is an experiment with machine learning using Play, Java and the LinkedIn-J API library
+
+Do note that to run this project properly, make sure your system's JRE and JDK are both the same versions(i.e. either both 1.6 or 1.7).
+
